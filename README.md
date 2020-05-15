@@ -8,4 +8,9 @@ This is a compilation of data structures, algorithms, and other utilities, writt
 
 | Directory | Nested Files | Description |
 | :-------: |  :---------: | :---------: |
-| Sorting | HeapSortClass.java<br />InsertionSortClass.java<br />MergeSortClass.java | Different variations of sorting algorithms. | 
+| Sorting | HeapSortClass.java<br />InsertionSortClass.java<br />MergeSortClass.java | Different variations of sorting algorithms. |
+| Linked Lists | Intcoll4.java<br />Intcoll5.java | Two iterations of linked lists with custom functionality and use of internal java libraries. |
+| Binary Search Trees | intcoll6.java | Implementations of binary search trees and related aggregate functions |
+| Hash Tables | MultiStringColl.java<br />MultiStringCollClient.java<br />StringColl.java<br />StringCollClient.java | Implementations of hash functions implemented through string collections. |
+| Graph Traversals | MyMazeWithPath.java<br />YourMazeWithPath.java | Graph traversals using a maze |
+| Basic Collections | Intcoll1.java<br />Intcoll1client.java<br />Intcoll2.java<br />Intcoll3.java | Basic structures and implementations of variable collections |
