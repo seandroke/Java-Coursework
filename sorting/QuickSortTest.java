@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.*;
 
-public class QuickSortTest
+public class QuickSortClass
 {
    static int qcount = 0;
 

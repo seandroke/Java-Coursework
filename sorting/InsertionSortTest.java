@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.*;
 
-public class InsertionSortTest
+public class InsertionSortClass
 {
    static int icount = 0;
 
